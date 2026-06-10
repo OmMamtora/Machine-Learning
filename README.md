@@ -188,7 +188,6 @@ Machine Learning/
 ![Pandas](https://img.shields.io/badge/Pandas-Data-purple?logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-Array-lightblue?logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Viz-red)
-![Flask](https://img.shields.io/badge/Flask-WebApp-black?logo=flask)
 
 **Libraries used across the repo:**
 - `pandas`, `numpy` — Data manipulation
