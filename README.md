@@ -254,7 +254,3 @@ Machine Learning/
 This repository is my open learning journal. Every notebook, dataset, and project reflects real practice and progression. If you're also learning ML, feel free to explore, fork, or use anything here!
 
 > *"The best way to learn is to build."*
-
----
-
-⭐ **Star this repo if you find it helpful!**
